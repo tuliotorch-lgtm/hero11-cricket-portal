@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tuliotorch-lgtm.github.io/hero11-cricket-portal/sitemap.xml
